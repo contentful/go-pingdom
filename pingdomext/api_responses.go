@@ -1,7 +1,7 @@
 package pingdomext
 
 import (
-	"github.com/DrFaust92/go-pingdom/pingdom"
+	"github.com/jwhiles/go-pingdom/pingdom"
 )
 
 type errorJSONResponse struct {

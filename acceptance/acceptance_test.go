@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/DrFaust92/go-pingdom/solarwinds"
+	"github.com/jwhiles/go-pingdom/solarwinds"
 
-	"github.com/DrFaust92/go-pingdom/pingdom"
+	"github.com/jwhiles/go-pingdom/pingdom"
 	"github.com/stretchr/testify/assert"
 )
 

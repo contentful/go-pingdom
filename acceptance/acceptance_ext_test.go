@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/DrFaust92/go-pingdom/pingdomext"
+	"github.com/jwhiles/go-pingdom/pingdomext"
 	"github.com/stretchr/testify/assert"
 )
 

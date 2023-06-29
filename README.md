@@ -1,6 +1,5 @@
 # go-pingdom #
 
-[![Build Status](https://travis-ci.org/DrFaust92/go-pingdom.svg?branch=master)](https://travis-ci.org/DrFaust92/go-pingdom) [![Go Report Card](https://goreportcard.com/badge/github.com/DrFaust92/go-pingdom/pingdom)](https://goreportcard.com/report/github.com/DrFaust92/go-pingdom/pingdom) [![GoDoc](https://godoc.org/github.com/DrFaust92/go-pingdom/pingdom?status.svg)](https://godoc.org/github.com/DrFaust92/go-pingdom/pingdom)
 
 go-pingdom is a Go client library for the Pingdom API.
 
