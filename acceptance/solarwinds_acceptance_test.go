@@ -1,7 +1,7 @@
 package acceptance
 
 import (
-	"github.com/jwhiles/go-pingdom/solarwinds"
+	"github.com/contentful/go-pingdom/solarwinds"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"

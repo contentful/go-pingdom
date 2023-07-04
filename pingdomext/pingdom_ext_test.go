@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jwhiles/go-pingdom/pingdom"
+	"github.com/contentful/go-pingdom/pingdom"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,4 +1,4 @@
-module github.com/jwhiles/go-pingdom
+module github.com/contentful/go-pingdom
 
 go 1.19
 
