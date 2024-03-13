@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: go-pingdom
+  description: go-pingdom is a Go client library for the Pingdom API.
+  annotations:
+    contentful.com/service-tier: "4"
+    github.com/project-slug: contentful/go-pingdom
+    circleci.com/project-slug: github/contentful/go-pingdom
+spec:
+  type: library
+  owner: group:team-kraken
+  lifecycle: production
+  system: content-rds
